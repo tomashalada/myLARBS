@@ -7,7 +7,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/tomashalada/dotfiles.git"
-progsfile="https://raw.githubusercontent.com/tomashalada/myLARBS/master/progs.csv"
+progsfile="https://raw.githubusercontent.com/tomashalada/myLARBS/master/progsi3.csv"
 aurhelper="yay"
 repobranch="master"
 
