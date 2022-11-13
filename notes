@@ -1,0 +1,15 @@
+TODO:
+- Make unified bar script for i3block and dwmblocks
+(atm i3block has all its tools in i3blocsk directory)
+
+- In .local/bin/old are same old scripts, this needs clean a bit
+
+- nvim coc settings is a bit mess
+
+DONE:
+- Function for additional programs added to larbs.sh
+  (currently installs node for coc nvim)
+  
+- I use both, dwm as well as i3, so i3 and i3block are part of the repos
+
+- pip packages added to progs.csv
