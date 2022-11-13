@@ -65,6 +65,8 @@ G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for
 G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's terminal emulator."
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
 A,mutt-wizard-git,"is a light-weight terminal-based email system."
+,i3-gaps,"is the window manager."
+,i3blocks,"is the status bar for i3 window manager."
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,"is a utility which establishes two byte streams and transfers data between them."
 P,jedi,"is a autocompletion package for python."
